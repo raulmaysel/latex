@@ -22,6 +22,11 @@
 *.nav
 *.nlo
 *.out
+*.zip
+*.tar.gz
+*.pdf
+*.eps
+*.jpg
 *.pdfsync
 *.ps
 *.snm
